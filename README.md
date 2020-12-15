@@ -7,12 +7,11 @@ a simple app using State management and help us to know how much money we spend 
 
 Some Of ScreenShots of my simple app
 
-![alt text](screenshots/1.png "")
-![alt text](screenshots/2.png "")
-![alt text](screenshots/3.png "")
-![alt text](screenshots/4.png "")
-![alt text](screenshots/5.png "")
-<img src="screenshots/1.png?raw=true" width="100" height="100" />
+<img src="screenshots/1.png?raw=true" width="400" height="800" />
+<img src="screenshots/2.png?raw=true" width="400" height="800" />
+<img src="screenshots/3.png?raw=true" width="400" height="800" />
+<img src="screenshots/4.png?raw=true" width="400" height="800" />
+<img src="screenshots/5.png?raw=true" width="400" height="800" />
 
 <
 ## Getting Started
