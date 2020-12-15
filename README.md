@@ -7,17 +7,14 @@ a simple app using State management and help us to know how much money we spend 
 
 Some Of ScreenShots of my simple app
 
-![alt text](screenshots/1.png "" width="400px")
+![alt text](screenshots/1.png "")
 ![alt text](screenshots/2.png "")
 ![alt text](screenshots/3.png "")
 ![alt text](screenshots/4.png "")
 ![alt text](screenshots/5.png "")
-![alt text](screenshots/1.png "")
+<img src="screenshots/1.png?raw=true" width="100" height="100" />
 
-<div align="center">
-    <img src="/screenshots/screen1.jpg" width="200px"</img> 
-</div>
-
+<
 ## Getting Started
 
 This project is a starting point for a Flutter application.
